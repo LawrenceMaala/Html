@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bookstore>
+<book category = "fiction">
+<title lang = "en">The Lost Hero</title>
+<author>Rick Riordan</author>
+<year>2010</year>
+<price>500.00</price>
+</book>
+</bookstore>
